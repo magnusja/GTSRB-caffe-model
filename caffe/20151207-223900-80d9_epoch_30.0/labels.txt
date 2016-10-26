@@ -1,0 +1,43 @@
+100 speed
+120 speed
+20 speed
+30 speed
+50 speed
+60 speed
+70 speed
+80 lifted
+80 speed
+attention bikes
+attention bottleneck
+attention bumpers
+attention children
+attention construction
+attention curvy
+attention deer
+attention general
+attention left turn
+attention pedestrian
+attention right turn
+attention slippery
+attention snowflake
+attention traffic light
+give way
+lifted general
+lifted no overtaking general
+lifted no overtaking trucks
+no overtaking general
+no overtaking trucks
+no way general
+no way one way
+no way trucks
+right of way crossing
+right of way general
+stop
+turn circle
+turn left
+turn left down
+turn right
+turn right down
+turn straight
+turn straight left
+turn straight right
