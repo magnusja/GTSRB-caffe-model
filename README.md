@@ -2,6 +2,8 @@
 
 This is the documentation for the image recognition of German traffic signs using the deep learning model AlexNet. The images to train the model were retrieved from www.benchmark.ini.rub.de.
 
+*If you have trouble downloading the model, because of my git lfs quota being exceeded, please download here: https://drive.google.com/drive/folders/0B-iC5XyHDwtPT29TaUVaVkg1T0U?usp=sharing*
+
 ## Images
 
 The Institut fuer Neuroinformatik of the Ruhr-Universitaet Bonn provides a data set of over 50,000 images of 43 different street signs. The images are in a PPM format and contain one traffic sign each. Sizes vary from 15x15 to 250x250 pixels and the images are not necessarily square. With the images come annotations that are provided in CSV files and that yield the filename, the size, the coordinates of the bounding box in which the sign is to be found, and the assigned class label.
