@@ -1,6 +1,6 @@
 # Documentation
 
-This is the documentation for the image recognition of German traffic signs using the deep learning model AlexNet. The images to train the model were retrieved from www.benchmark.ini.rub.de.
+This is the documentation for the image recognition of German traffic signs using the deep learning model AlexNet. The images to train the model were retrieved from http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
 *If you have trouble downloading the model, because of my git lfs quota being exceeded, please download here: https://drive.google.com/drive/folders/0B-iC5XyHDwtPT29TaUVaVkg1T0U?usp=sharing*
 
